@@ -1,0 +1,3 @@
+Namespace(active_connection=5, batch_size=16, checkpoint='params/ex1_baseline_sup_random_celeb/baseline_sup_random_celeb/LEAP_random_celeb_1000_3/epoch_4.ckpt', features=256, is_density=0, k_at_hop=[79, 5], local_label_path=None, local_rank=0, max_size=300, mode='sup', pool='avg', print_freq=20, prop_step=0.6, rand_val=0, save_dir='./', seed=1, val_feat_path='/workspace/data/public/celeb_ltc/features/test.lmdb', val_knn_graph_path='/workspace/data/public/celeb_ltc/features/test/knn_index_80.npy', val_label_path='/workspace/data/public/celeb_ltc/labels/label_test.npy', workers=2)
+1
+1

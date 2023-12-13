@@ -1,0 +1,1 @@
+log dir:   params/ex1_baseline_sup_random_celeb/baseline_sup_random_celeb/LEAP_random_celeb_500_5

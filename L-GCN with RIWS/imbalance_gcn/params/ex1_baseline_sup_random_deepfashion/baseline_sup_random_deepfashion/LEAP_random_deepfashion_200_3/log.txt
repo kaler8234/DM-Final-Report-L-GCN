@@ -1,0 +1,2 @@
+log dir:   params/ex1_baseline_sup_random_deepfashion/baseline_sup_random_deepfashion/LEAP_random_deepfashion_200_3
+==> train time use 183.71206092834473
